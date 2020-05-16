@@ -13,7 +13,7 @@ a{
 }
 
 .inner__header{
-	background:url('../img/header-line.png') no-repeat;
+	background:url('img/header-line.png') no-repeat;
 	height:65px;
 	width:100%;
 	max-width:1920px;
