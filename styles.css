@@ -13,7 +13,7 @@ a{
 }
 
 .inner__header{
-	background:url('img/header-line.png') no-repeat;
+	background:url('../testrep/img/header-line.png') no-repeat;
 	height:65px;
 	width:100%;
 	max-width:1920px;
@@ -58,7 +58,7 @@ a{
 ================= MAIN PAGE CONTENT ========*/
 
 .__adv{
-	background:url('../img/main-adv.png')no-repeat;
+	background:url('../testrep/img/main-adv.png')no-repeat;
 	width:968px;
 	height:91px;
 	margin:30px auto;
@@ -93,23 +93,23 @@ a{
 }
 
 .tile__item1{
-	background:url('../img/news-tile-1.png')no-repeat;
+	background:url('../testrep/img/news-tile-1.png')no-repeat;
 }
 
 .tile__item2{
-	background:url('../img/news-tile-2.png')no-repeat;
+	background:url('../testrep/img/news-tile-2.png')no-repeat;
 }
 
 .tile__item3{
-	background:url('../img/news-tile-3.png')no-repeat;
+	background:url('../testrep/img/news-tile-3.png')no-repeat;
 }
 
 .tile__item4{
-	background:url('../img/news-tile-4.png')no-repeat;
+	background:url('../testrep/img/news-tile-4.png')no-repeat;
 }
 
 .tile__item5{
-	background:url('../img/news-tile-5.png')no-repeat;
+	background:url('../testrep/img/news-tile-5.png')no-repeat;
 }
 
 .news__t__text{
@@ -161,25 +161,25 @@ a{
 }
 
 .rev__item1{
-	background:url('../img/rev-tile-1.png')no-repeat;
+	background:url('../testrep/img/rev-tile-1.png')no-repeat;
 	width:263px;
 	height:145px;
 }
 
 .rev__item2{
-	background:url('../img/rev-tile-2.png')no-repeat;
+	background:url('../testrep/img/rev-tile-2.png')no-repeat;
 	width:263px;
 	height:145px;
 }
 
 .rev__item3{
-	background:url('../img/rev-tile-3.png')no-repeat;
+	background:url('../testrep/img/rev-tile-3.png')no-repeat;
 	width:263px;
 	height:145px;
 }
 
 .rev__item4{
-	background:url('../img/rev-tile-4.png')no-repeat;
+	background:url('../testrep/img/rev-tile-4.png')no-repeat;
 	width:263px;
 	height:145px;
 }
@@ -229,7 +229,7 @@ a{
 }
 
 .lh__side{
-	background:url('../img/side-adv.png')no-repeat;
+	background:url('../testrep/img/side-adv.png')no-repeat;
 	width:300px;
 	height:600px;
 	float:right;
@@ -255,23 +255,23 @@ a{
 }
 
 .lh__item1{
-	background:url('../img/lh-tile-1.png')no-repeat;
+	background:url('../testrep/img/lh-tile-1.png')no-repeat;
 
 }
 
 .lh__item2{
-	background:url('../img/lh-tile-2.png')no-repeat;
+	background:url('../testrep/img/lh-tile-2.png')no-repeat;
 
 
 }
 
 .lh__item3{
-	background:url('../img/lh-tile-3.png')no-repeat;
+	background:url('../testrep/img/lh-tile-3.png')no-repeat;
 
 }
 
 .lh__item4{
-	background:url('../img/lh-tile-4.png')no-repeat;
+	background:url('../testrep/img/lh-tile-4.png')no-repeat;
 
 }
 
@@ -312,7 +312,7 @@ a{
 }
 
 .soc__item{
-	background:url('../img/footer-ellipse.png')no-repeat;
+	background:url('../testrep/img/footer-ellipse.png')no-repeat;
 	width:56px;
 	height:56px;
 	margin:0 15px 50px;
@@ -328,25 +328,25 @@ a{
 }
 
 .fb__pic{
-	background:url('../img/fb-pic.png')no-repeat;
+	background:url('../testrep/img/fb-pic.png')no-repeat;
 	width:13px;
 	height:24px;
 }
 
 .ok__pic{
-	background:url('../img/ok-pic.png')no-repeat;
+	background:url('../testrep/img/ok-pic.png')no-repeat;
 	width:15px;
 	height:26px;
 }
 
 .ins__pic{
-	background:url('../img/ins-pic.png')no-repeat;
+	background:url('../testrep/img/ins-pic.png')no-repeat;
 	width:21px;
 	height:21px;
 }
 
 .ant__pic{
-	background:url('../img/ant-pic.png')no-repeat;
+	background:url('../testrep/img/ant-pic.png')no-repeat;
 	width:20px;
 	height:20px;
 }
